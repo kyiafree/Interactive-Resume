@@ -1,0 +1,101 @@
+body{
+  background-color: black;
+  text-align: center;
+  transition: 10s;
+}
+.hello{
+  padding: 10 px;
+  transition: 1em;
+  }
+.me{
+  padding: 10px;
+  max-height: 230px;
+}
+.name{
+    text-align: center;
+    color: darkgray;
+    font-style: bold;
+    font-size: 35pt;
+}
+.test{
+    color: blue;
+}
+h2{
+    text-align:center;
+    font-size: 20pt;
+    padding: 20px;
+    border: solid lime;
+    color:darkgray;
+}
+.info{
+    color:blue;
+}
+p{
+  color: blue;
+}
+h3{
+    text-align: center;
+    font-size:20pt;
+    border: solid lime;
+    padding: 20px;
+    color: darkgray;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px darkgray;
+    z-index: 1;
+    width:100%;
+    text-align: center;
+
+  }
+  .dropbtn {
+    background-color: black;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    align-items: center;
+    width: 100%;
+  
+  }
+  .show {display:block;}
+
+  .dropdown {
+    position: relative;
+    display: inline-block;
+    width:100%;
+
+  }
+  .dropdown-content a {
+    color: blue;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    width: 100%;
+    float: none;
+    text-align: center;
+  }
+ h1{
+  color:blue;
+  font-size: 20pt;
+  text-align: left;
+ }
+.edu{
+  color:blue;
+  text-align: left;
+}
+.exp{
+  color:blue;
+  text-align: left;
+}
+.cert{
+  color:blue;
+  text-align: left;
+}
+.skil{
+  color:blue;
+  text-align: left;
+}
